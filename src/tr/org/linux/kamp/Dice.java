@@ -15,7 +15,7 @@ public class Dice {
 	}
 
 	public String getPlayer() {
-		return face;
+		return player;
 	}
 
 	

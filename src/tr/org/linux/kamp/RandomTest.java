@@ -7,7 +7,7 @@ public class RandomTest {
 	
 	public static void main(String args[]){
 		
-		double randomNumber1 = Math.random();
+	   double randomNumber1 = Math.random();
 		System.out.println(randomNumber1);
 		
 
